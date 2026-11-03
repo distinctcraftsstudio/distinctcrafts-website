@@ -1,0 +1,149 @@
+[
+  {
+    "name": "6 Decorated Chip Bags",
+    "description": "Standard personalized chip bag decorations; confirm whether snacks are included.",
+    "price": 18.0,
+    "image": "",
+    "visible": true
+  },
+  {
+    "name": "12 Decorated Chip Bags",
+    "description": "Standard personalized chip bag decorations; confirm whether snacks are included.",
+    "price": 30.0,
+    "image": "",
+    "visible": true
+  },
+  {
+    "name": "24 Decorated Chip Bags",
+    "description": "Standard personalized chip bag decorations; confirm whether snacks are included.",
+    "price": 54.0,
+    "image": "",
+    "visible": true
+  },
+  {
+    "name": "6 Gable Boxes",
+    "description": "Standard decorated cardstock boxes; premium 3D work quoted separately.",
+    "price": 36.0,
+    "image": "",
+    "visible": true
+  },
+  {
+    "name": "12 Gable Boxes",
+    "description": "Standard decorated cardstock boxes; premium 3D work quoted separately.",
+    "price": 72.0,
+    "image": "",
+    "visible": true
+  },
+  {
+    "name": "24 Gable Boxes",
+    "description": "Standard decorated cardstock boxes; premium 3D work quoted separately.",
+    "price": 132.0,
+    "image": "",
+    "visible": true
+  },
+  {
+    "name": "6 Decorated Chocolate Bars",
+    "description": "Standard wrappers and chocolate bars included.",
+    "price": 18.0,
+    "image": "",
+    "visible": true
+  },
+  {
+    "name": "12 Decorated Chocolate Bars",
+    "description": "Standard wrappers and chocolate bars included.",
+    "price": 30.0,
+    "image": "",
+    "visible": true
+  },
+  {
+    "name": "24 Decorated Chocolate Bars",
+    "description": "Standard wrappers and chocolate bars included.",
+    "price": 54.0,
+    "image": "",
+    "visible": true
+  },
+  {
+    "name": "6 Mini Toppers",
+    "description": "Personalized cupcake or mini toppers.",
+    "price": 12.0,
+    "image": "",
+    "visible": true
+  },
+  {
+    "name": "12 Mini Toppers",
+    "description": "Personalized cupcake or mini toppers.",
+    "price": 20.0,
+    "image": "",
+    "visible": true
+  },
+  {
+    "name": "24 Mini Toppers",
+    "description": "Personalized cupcake or mini toppers.",
+    "price": 36.0,
+    "image": "",
+    "visible": true
+  },
+  {
+    "name": "24 School Labels",
+    "description": "Basic personalized school label set.",
+    "price": 15.0,
+    "image": "",
+    "visible": true
+  },
+  {
+    "name": "48 School Labels",
+    "description": "Standard personalized school label set.",
+    "price": 22.0,
+    "image": "",
+    "visible": true
+  },
+  {
+    "name": "72 School Labels",
+    "description": "Deluxe personalized school label set.",
+    "price": 30.0,
+    "image": "",
+    "visible": true
+  },
+  {
+    "name": "6 Goody Bags",
+    "description": "Standard personalized bags; contents not included.",
+    "price": 24.0,
+    "image": "",
+    "visible": true
+  },
+  {
+    "name": "12 Goody Bags",
+    "description": "Standard personalized bags; contents not included.",
+    "price": 42.0,
+    "image": "",
+    "visible": true
+  },
+  {
+    "name": "24 Goody Bags",
+    "description": "Standard personalized bags; contents not included.",
+    "price": 78.0,
+    "image": "",
+    "visible": true
+  },
+  {
+    "name": "Basic Personalized Notebook",
+    "description": "Notebook and personalized cover included.",
+    "price": 12.0,
+    "image": "",
+    "visible": true
+  },
+  {
+    "name": "Full-Color Themed Notebook",
+    "description": "Notebook and personalized cover included.",
+    "price": 15.0,
+    "image": "",
+    "visible": true
+  },
+  {
+    "name": "Custom Photo Notebook",
+    "description": "Notebook and personalized cover included.",
+    "price": 18.0,
+    "image": "",
+    "visible": true
+  }
+]
